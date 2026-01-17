@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Model files (if any)
+*.pt
+*.pth
+
+# Streamlit
+.streamlit/
+
+# OS
+Thumbs.db
